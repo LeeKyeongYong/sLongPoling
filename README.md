@@ -2,7 +2,7 @@
 　　　　　　　　　　　　![HiDoggyGIF](https://user-images.githubusercontent.com/81811670/229680287-97fa1e6a-8dd2-4254-9e42-ca74e88e428b.gif)
 
 <hr/>
-## 🎤 Servlet 에서 웹채팅하기 -Poling편- <br/>
+## 🎤 Servlet 에서 웹채팅하기 -Long Poling편- <br/>
 <br/>
 ## 🔧 Tool & Skill Stack
 <table>
